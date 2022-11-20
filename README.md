@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MarcosA2311
-- 👀 I’m interested in work in the programming in C++
-- 🌱 I’m currently learnings C++
+- 👋 Olá,meu nome é @MarcosA2311
+- 👀 Programo em C++
+- 🌱 Especificando-me em C++
 - 📫 Contato: marcosantoniodeoliveira2311@gmail.com
 
 <!---
